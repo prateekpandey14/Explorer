@@ -19,3 +19,6 @@ Vagrant & OpenStack:
   - https://github.com/ggiamarchi/vagrant-openstack-provider
 Transform CLI commands to HTTP endpoints:
   - https://github.com/adnanh/webhook
+- [gotchas-and-common-mistakes-in-go-golang](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
+- [you probably dont know these about go](https://talks.golang.org/2012/10things.slide#1)
+
