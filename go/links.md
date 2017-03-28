@@ -1,5 +1,5 @@
-Curl to Go
-https://mholt.github.io/curl-to-go/
+Curl to Go:
+  - https://mholt.github.io/curl-to-go/
 Crash course in Docker Networking:
   - https://medium.com/@loginoff/debugging-a-docker-heisenbug-in-production-586ccb265f7c
 Consensus Algorithms:
