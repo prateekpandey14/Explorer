@@ -1,3 +1,4 @@
+```yaml
 Curl to Go:
   - https://mholt.github.io/curl-to-go/
 Crash course in Docker Networking:
@@ -20,4 +21,4 @@ Transform CLI commands to HTTP endpoints:
   - https://github.com/adnanh/webhook
 - [gotchas-and-common-mistakes-in-go-golang](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
 - [you probably dont know these about go](https://talks.golang.org/2012/10things.slide#1)
-
+```
