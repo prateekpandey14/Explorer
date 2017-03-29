@@ -21,4 +21,10 @@ Transform CLI commands to HTTP endpoints:
   - https://github.com/adnanh/webhook
 - [gotchas-and-common-mistakes-in-go-golang](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
 - [you probably dont know these about go](https://talks.golang.org/2012/10things.slide#1)
+Testing Your (HTTP) Handlers in Go
+  - https://elithrar.github.io/article/testing-http-handlers-go/
+Executing Commands In Go
+  - http://www.darrencoxall.com/golang/executing-commands-in-go/
+Go tips
+  - https://github.com/beyondns/gotips#68---go1.8-features
 ```
