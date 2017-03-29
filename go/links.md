@@ -27,4 +27,8 @@ Executing Commands In Go
   - http://www.darrencoxall.com/golang/executing-commands-in-go/
 Go tips
   - https://github.com/beyondns/gotips#68---go1.8-features
+Etcd-live-http-to-https-migration
+  - https://github.com/coreos/docs/blob/master/etcd/etcd-live-http-to-https-migration.md
+LearnServerProgramming
+  - https://github.com/golang/go/wiki/LearnServerProgramming
 ```
