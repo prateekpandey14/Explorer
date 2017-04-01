@@ -37,5 +37,8 @@ CFFSL Certs
   - https://github.com/cpuguy83/generate_cert
 Flannel Issue
   - https://github.com/coreos/flannel/issues/72
+Working with files
+  - http://www.devdungeon.com/content/working-files-go
+Go books
+  - https://github.com/golang/go/wiki/Books
 ```
-
