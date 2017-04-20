@@ -106,6 +106,7 @@ $ cd ~/repos/maya-fork
 
  ```sh
  cd $user/maya
+ make bootstrap
  make dev
  ```
 
