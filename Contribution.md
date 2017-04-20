@@ -99,3 +99,34 @@ $ cd ~/repos/maya-fork
  ```
  At this point, your local branch, your remote repository, and the `maya` repository all have identical code. You are ready to make changes 
  for your issue.
+
+ After making changes to your local branch and running the test, create a pull request:
+
+ #### Build
+
+ ```sh
+ cd $user/maya
+ make dev
+ ```
+
+ To build binaries for other distributions:
+
+ ```sh
+ make bin
+ ```
+
+ #### Test
+
+ ```sh
+ cd $user/maya
+
+ # Run every unit test
+ make test 
+```
+### 4 Keep your branch in sync
+
+```sh
+# While on your myfeature branch (see above)
+git fetch upstream
+git rebase upstream/master
+```
