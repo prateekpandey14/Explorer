@@ -1,5 +1,7 @@
-To contribute in openebs/maya firstly, you forked the openebs/maya repository. Maybe that was an hour ago or a few days ago. In any case, before you start working on your issue, sync your repository with the upstream openebs/maya master. Syncing ensures your repository has the 
-latest changes.
+# Contribution Guide
+
+To contribute openebs/maya firstly, you have to fork the openebs/maya repository. In any case, before you start working on your issue, sync 
+your repository with the upstream openebs/maya master. Syncing ensures your repository has the latest changes.
 
 ### To sync your repository:
 Open a terminal on your local host. Change directory to the maya-fork root.
@@ -21,8 +23,8 @@ $ cd ~/repos/maya-fork
 
  ```sh
  $ git remote -v
- origin	https://github.com/prateekpandey14/maya.git (fetch)
- origin	https://github.com/prateekpandey14/maya.git (push)
+ origin	https://github.com/prateek/maya.git (fetch)
+ origin	https://github.com/prateek/maya.git (push)
  upstream	https://github.com/openebs/maya.git (fetch)
  upstream	https://github.com/openebs/maya.git (push)
  ``` 
