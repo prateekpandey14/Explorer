@@ -3,12 +3,12 @@
 To contribute openebs/maya firstly, you have to fork the openebs/maya repository. In any case, before you start working on your issue, sync 
 your repository with the upstream openebs/maya master. Syncing ensures your repository has the latest changes.
 
-### 1 Fork in the cloud
+### 1. Fork in the cloud
 
 1. Visit https://github.com/openebs/maya
 2. Click `Fork` button (top right) to establish a cloud-based fork.
 
-### 2 Clone fork to local storage
+### 2. Clone fork to local storage
 
 Place openebs/maya' code on your `GOPATH` using the following cloning procedure.
 
@@ -22,7 +22,9 @@ Create your clone:
 ```sh
 mkdir -p $working_dir
 cd $working_dir
-git clone https://github.com/$user/maya.git
+git clone https://github.com/$user/maya.git 
+
+# Note: Here user= your github profile name
 
 cd $working_dir/maya
 git remote add upstream https://github.com/openebs/maya.git
@@ -34,11 +36,11 @@ git remote set-url --push upstream no_push
 git remote -v
 ```
 
-### To sync your repository:
+### 3. To sync your local repository:
 Open a terminal on your local host. Change directory to the maya-fork root.
 
 ```sh
-$ cd ~/repos/maya-fork
+$ cd ~/$working_dir/maya
 ```
 
  Checkout the master branch.
@@ -57,7 +59,7 @@ $ cd ~/repos/maya-fork
  origin	https://github.com/prateek/maya.git (fetch)
  origin	https://github.com/prateek/maya.git (push)
  upstream	https://github.com/openebs/maya.git (fetch)
- upstream	https://github.com/openebs/maya.git (push)
+ upstream	https://github.com/openebs/maya.git (no_push)
  ``` 
 	 
  If the upstream is missing, add it by using below command.
@@ -131,13 +133,11 @@ $ cd ~/repos/maya-fork
  At this point, your local branch, your remote repository, and the `maya` repository all have identical code. You are ready to make changes 
  for your issue.
 
- ### After making changes to your local branch and running the `test`, create a pull request:
 
- #### Build
+ ### 4. Build
 
  ```sh
- cd $user/maya
- make bootstrap
+ cd $working_dir/maya
  make dev
  ```
 
@@ -150,7 +150,7 @@ $ cd ~/repos/maya-fork
  #### Test
 
  ```sh
- cd $user/maya
+ cd $working_dir/maya
 
  # Run every unit test
  make test 
@@ -162,3 +162,5 @@ $ cd ~/repos/maya-fork
 git fetch upstream
 git rebase upstream/master
 ```
+
+#### After making changes to your local branch and running the `test`, create a pull request:
