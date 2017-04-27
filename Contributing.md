@@ -3,6 +3,37 @@
 To contribute openebs/maya firstly, you have to fork the openebs/maya repository. In any case, before you start working on your issue, sync 
 your repository with the upstream openebs/maya master. Syncing ensures your repository has the latest changes.
 
+### 1 Fork in the cloud
+
+1. Visit https://github.com/openebs/maya
+2. Click `Fork` button (top right) to establish a cloud-based fork.
+
+### 2 Clone fork to local storage
+
+Place openebs/maya' code on your `GOPATH` using the following cloning procedure.
+
+Define a local working directory:
+
+```sh
+working_dir=$GOPATH/src/github.com/openebs
+```
+reate your clone:
+
+```sh
+mkdir -p $working_dir
+cd $working_dir
+git clone https://github.com/$user/maya.git
+
+cd $working_dir/maya
+git remote add upstream https://github.com/openebs/maya.git
+
+# Never push to upstream master
+git remote set-url --push upstream no_push
+
+# Confirm that your remotes make sense:
+git remote -v
+```
+
 ### To sync your repository:
 Open a terminal on your local host. Change directory to the maya-fork root.
 
