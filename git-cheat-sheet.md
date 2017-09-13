@@ -190,7 +190,15 @@
  # To see the list of remote branches
  # -a stands for all
  git branch -a 
- ```
+
+ # How to combine an unmerged commit into my branch from other's branch
+ # To pull the specific branch head to a local branch
+ git fetch upstream pull/5432/head:my-branch
+ git checkout my-branch
+ ... do work, make additional commits ...
+ git push -u origin
+```
+ 
  ##	Resources
  ### Reference
  - Try Github - https://try.github.io
