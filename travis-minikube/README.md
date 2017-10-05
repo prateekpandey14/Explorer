@@ -1,3 +1,3 @@
 # Travis-Minikube
 
-Running kubernetes minikube in travis-CI
+Running kubernetes 1.8 using [minikube](https://github.com/kubernetes/minikube) on travis-CI
