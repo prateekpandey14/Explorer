@@ -15,8 +15,8 @@ before_script:
 # with IP in kubeconfig, and corrects kubeconfig if incorrect
 - minikube update-context
 
-# Wait for Kubernetes to be up and ready
-- sleep 3m
+# Wait for Kubernetes to be up and ready.
+- JSONPATH='{range .items[*]}{@.metadata.name}:{range @.status.conditions[*]}{@.type}={@.status};{end}{end}'; until kubectl get nodes -o jsonpath="$JSONPATH" 2>&1 | grep -q "Ready=True"; do sleep 1; done
 
 script:
 # Create example Redis deployment on Kubernetes.
