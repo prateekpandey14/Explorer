@@ -23,4 +23,4 @@ script:
 - kubectl cluster-info
 - kubectl run travis-example --image=redis
 - kubectl get deployment
-- while true; do docker pull openebs/jiva:latest; sleep 60; done  
+- while true; do docker pull openebs/jiva:latest; sleep 10; done  
