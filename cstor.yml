@@ -1,0 +1,59 @@
+# prometheus-deployment
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  name: cstor
+spec:
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        name: cstor 
+    spec:
+      containers:
+        - name: cstor
+          imagePullPolicy: IfNotPresent 
+          image: payes/cstor:latest
+          command: ["/bin/bash"]
+          args: [ "-c", "chmod +x /init.sh; /init.sh volname=cstor_vol path=/tmp/cstor size=8g"]
+          ports:
+            - containerPort: 3260
+              name: iscsi
+            - containerPort: 22
+              name: sshdname
+          resources:
+            requests:
+#              # A memory request of 250M means it will try to ensure minimum
+#              # 250MB RAM .
+#              memory: "128M"
+#              # A cpu request of 128m means it will try to ensure minimum
+#              # .125 CPU; where 1 CPU means :
+#              # 1 *Hyperthread* on a bare-metal Intel processor with Hyperthreading
+              cpu: "50m"
+#            limits:
+#              memory: "700M"
+#              cpu: "500m"
+          volumeMounts:
+            - name: cstor-volume
+              mountPath: /tmp/cstor
+      volumes:
+        # All the time series stored in this volume in form of .db file.
+        - name: cstor-volume
+          hostPath:
+            path: /tmp/cstor
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: cstor
+spec:
+  ports:
+  - name: iscsi
+    port: 3260
+    targetPort: 3260
+  - name: sshname
+    port: 22
+    targetPort: 22
+  selector:
+    name: cstor
+  type: LoadBalancer
