@@ -6,3 +6,4 @@ Some Useful links related to Kubernetes CRD's
 4. https://coreos.com/blog/introducing-operators.html#how-can-you-create-an-operator
 5. https://github.com/GoogleCloudPlatform/kube-metacontroller
 6. https://github.com/ianlewis/controllerutil
+7. https://github.com/jetstack/cert-manager
