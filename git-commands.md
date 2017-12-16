@@ -77,9 +77,7 @@
 - [Other Resources](#other-resources)
   - [Books](#books)
   - [Tutorials](#tutorials)
-  - [Scripts and Tools](#scripts-and-tools)
-  - [GUI Clients](#gui-clients)
-
+  
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 
@@ -1322,5 +1320,19 @@ $ git reset --hard 0254ea7
 
 Using `git reset` it is then possible to change master back to the commit it was before. This provides a safety net in case history was accidentally changed.
 
-(copied and edited from [Source](https://www.atlassian.com/git/tutorials/rewriting-history/git-reflog)).
+(copied and edited from [Source](https://www.atlassian.com/git/tutorials/rewriting-history/git-reflog)).'
 
+# Other Resources
+
+## Books
+
+* [Pro Git](https://git-scm.com/book/en/v2) - Scott Chacon and Ben Straub's excellent book about Git
+* [Git Internals](https://github.com/pluralsight/git-internals-pdf) - Scott Chacon's other excellent book about Git
+
+## Tutorials
+
+* [Learn Git branching](https://learngitbranching.js.org/) An interactive web based branching/merging/rebasing tutorial
+* [Getting solid at Git rebase vs. merge](https://medium.com/@porteneuve/getting-solid-at-git-rebase-vs-merge-4fa1a48c53aa)
+* [git-workflow](https://github.com/asmeurer/git-workflow) - [Aaron Meurer](https://github.com/asmeurer)'s howto on using Git to contribute to open source repositories
+* [GitHub as a workflow](https://hugogiraudel.com/2015/08/13/github-as-a-workflow/) - An interesting take on using GitHub as a workflow, particularly with empty PRs
+* [Githug](https://github.com/Gazler/githug) - A game to learn more common Git workflows
