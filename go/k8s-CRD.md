@@ -8,3 +8,4 @@ Some Useful links related to Kubernetes CRD's
 6. https://github.com/ianlewis/controllerutil
 7. https://github.com/jetstack/cert-manager
 8. https://engineering.bitnami.com/articles/a-deep-dive-into-kubernetes-controllers.html
+9. https://github.com/atlassian/smith
