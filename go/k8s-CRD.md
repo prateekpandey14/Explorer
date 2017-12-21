@@ -9,3 +9,4 @@ Some Useful links related to Kubernetes CRD's
 7. https://github.com/jetstack/cert-manager
 8. https://engineering.bitnami.com/articles/a-deep-dive-into-kubernetes-controllers.html
 9. https://github.com/atlassian/smith
+10. https://github.com/kubernetes-incubator/external-storage/tree/master/snapshot
