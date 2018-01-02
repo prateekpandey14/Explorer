@@ -10,3 +10,4 @@ Some Useful links related to Kubernetes CRD's
 8. https://engineering.bitnami.com/articles/a-deep-dive-into-kubernetes-controllers.html
 9. https://github.com/atlassian/smith
 10. https://github.com/kubernetes-incubator/external-storage/tree/master/snapshot
+11. https://github.com/caicloud/kubeflow-controller
