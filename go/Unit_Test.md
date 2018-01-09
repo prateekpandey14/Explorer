@@ -3,3 +3,5 @@
 3. https://blog.codeship.com/testing-http-handlers-go/
 4. https://blog.golang.org/subtests
 5. https://blog.golang.org/examples
+6. https://github.com/golang/go/wiki/TableDrivenTests
+7. https://github.com/kubernetes/kubernetes/blob/master/test/integration/auth/auth_test.go
