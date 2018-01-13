@@ -4,3 +4,4 @@ https://github.com/sttts/kubernetes/blob/740afa0e65bf44a95752fb863017a7cf14b476a
 
 **Storage Matrics**
 3. https://docs.google.com/spreadsheets/d/1wbhJSE6Nzc7XvVjrVKHhJEleiAsUcHGR1t4VH4hWu9s/edit#gid=0
+http://blog.kubernetes.io/2018/01/extensible-admission-is-beta.html?m=1
