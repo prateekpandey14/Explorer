@@ -11,3 +11,4 @@ Some Useful links related to Kubernetes CRD's
 9. https://github.com/atlassian/smith
 10. https://github.com/kubernetes-incubator/external-storage/tree/master/snapshot
 11. https://github.com/caicloud/kubeflow-controller
+12. https://github.com/deepinsight/mxnet-operator
