@@ -7,3 +7,4 @@
 7. https://github.com/kubernetes/kubernetes/blob/master/test/integration/auth/auth_test.go
 8. https://husobee.github.io/golang/testing/unit-test/2015/06/08/golang-unit-testing.html
 9. https://npf.io/2014/04/mocking-functions-in-go/
+10 https://getstream.io/blog/how-we-test-go-at-stream/
