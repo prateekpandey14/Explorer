@@ -43,5 +43,7 @@ Go books
   - https://github.com/golang/go/wiki/Books
 GoRoutine blog
   - https://divan.github.io/posts/gophercon16/
+  Dotfiles to learn
+  - https://github.com/abhinav/dotfiles
   
 ```
