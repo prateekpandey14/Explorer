@@ -45,5 +45,6 @@ GoRoutine blog
   - https://divan.github.io/posts/gophercon16/
   Dotfiles to learn
   - https://github.com/abhinav/dotfiles
+  - https://jvns.ca/blog/2018/01/26/spy-container/
   
 ```
