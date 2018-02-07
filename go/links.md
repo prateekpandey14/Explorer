@@ -21,32 +21,32 @@ Transform CLI commands to HTTP endpoints:
   - https://github.com/adnanh/webhook
 - [gotchas-and-common-mistakes-in-go-golang](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
 - [you probably dont know these about go](https://talks.golang.org/2012/10things.slide#1)
-Testing Your (HTTP) Handlers in Go
+Testing Your (HTTP) Handlers in Go:
   - https://elithrar.github.io/article/testing-http-handlers-go/
-Executing Commands In Go
+Executing Commands In Go:
   - http://www.darrencoxall.com/golang/executing-commands-in-go/
-Go tips
+Go tips:
   - https://github.com/beyondns/gotips#68---go1.8-features
-Etcd-live-http-to-https-migration
+Etcd-live-http-to-https-migration:
   - https://github.com/coreos/docs/blob/master/etcd/etcd-live-http-to-https-migration.md
-LearnServerProgramming
+LearnServerProgramming:
   - https://github.com/golang/go/wiki/LearnServerProgramming
-FlexVolume
+FlexVolume:
   - https://github.com/tonyzou/flexvolumes
-CFFSL Certs
+CFFSL Certs:
   - https://github.com/cpuguy83/generate_cert
-Flannel Issue
+Flannel Issue:
   - https://github.com/coreos/flannel/issues/72
-Working with files
+Working with files:
   - http://www.devdungeon.com/content/working-files-go
-Go books
+Go books:
   - https://github.com/golang/go/wiki/Books
-GoRoutine blog
+GoRoutine blog:
   - https://divan.github.io/posts/gophercon16/
-  Dotfiles to learn
+Dotfiles to learn:
   - https://github.com/abhinav/dotfiles
   - https://jvns.ca/blog/2018/01/26/spy-container/
-Has Sum Mismatch
+Has Sum Mismatch:
   - http://brookhong.github.io/2016/10/10/troubleshoot-hash-sum-mismatch-of-apt-get.html
   
 ```
