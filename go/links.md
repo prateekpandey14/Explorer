@@ -48,5 +48,7 @@ Dotfiles to learn:
   - https://jvns.ca/blog/2018/01/26/spy-container/
 Has Sum Mismatch:
   - http://brookhong.github.io/2016/10/10/troubleshoot-hash-sum-mismatch-of-apt-get.html
+How to use Bazel:
+  - https://chrislovecnm.com/golang/bazel/bazel-hello-world
   
 ```
