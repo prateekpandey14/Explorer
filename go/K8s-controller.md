@@ -3,3 +3,4 @@
 3. https://kubernetes.io/docs/concepts/workloads/controllers/garbage-collection/
 4. https://github.com/lukebond/cc-au-k8s-operators-workshop
 5. https://github.com/radu-matei/learning-operator
+6. https://github.com/kubernetes/kubernetes/pull/53944
