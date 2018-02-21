@@ -16,3 +16,4 @@ Some Useful links related to Kubernetes CRD's
     https://www.youtube.com/watch?v=PYLFZVv68lM
 14. https://srossross.github.io/k8s-test-controller/  
 15. https://github.com/spotahome/redis-operator
+16. https://github.com/giantswarm/operatorkit
