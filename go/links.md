@@ -52,5 +52,7 @@ How to use Bazel:
   - https://chrislovecnm.com/golang/bazel/bazel-hello-world
 Cloud-Prober
   - https://github.com/google/cloudprober
+DataStructures in Go
+ https://ieftimov.com/golang-datastructures-linked-lists
   
 ```
