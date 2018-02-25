@@ -1,3 +1,3 @@
 # Explorer
-  Learning with the time
-Bshs
+Daily Learnings and blogs
+
