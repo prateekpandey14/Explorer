@@ -50,9 +50,10 @@ Has Sum Mismatch:
   - http://brookhong.github.io/2016/10/10/troubleshoot-hash-sum-mismatch-of-apt-get.html
 How to use Bazel:
   - https://chrislovecnm.com/golang/bazel/bazel-hello-world
-Cloud-Prober
+Cloud-Prober:
   - https://github.com/google/cloudprober
-DataStructures in Go
+DataStructures in Go:
  https://ieftimov.com/golang-datastructures-linked-lists
-  
+Kubectl with jsonpath:
+https://gist.github.com/so0k/42313dbb3b547a0f51a547bb968696ba  
 ```
