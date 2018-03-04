@@ -6,3 +6,5 @@
    https://medium.freecodecamp.org/here-are-some-amazing-advantages-of-go-that-you-dont-hear-much-about-1af99de3b23a
  4. Debugging From Scratch
    https://ahmet.im/blog/debugging-scratch/
+ 5. Go Interfaces
+ https://scene-si.org/2018/02/28/interfaces-in-go/
