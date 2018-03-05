@@ -8,3 +8,5 @@
    https://ahmet.im/blog/debugging-scratch/
  5. Go Interfaces
  https://scene-si.org/2018/02/28/interfaces-in-go/
+ 6. A Gopher's awesome blog reading  list
+ https://github.com/enocom/gopher-reading-list
