@@ -9,4 +9,3 @@
 9. https://npf.io/2014/04/mocking-functions-in-go/
 10. https://getstream.io/blog/how-we-test-go-at-stream/
 11. https://glucn.blog/2018/03/04/mocking-an-interface-in-golang/amp/?__twitter_impression=true
-12. http://www.adamcz.com/blog/unit-testing-in-go
