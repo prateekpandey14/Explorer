@@ -12,3 +12,5 @@
  https://github.com/enocom/gopher-reading-list
  7. Command line monitoring for Goroutines
  https://github.com/bcicen/grmon
+ 8. Go Systems Programming 
+ https://github.com/PacktPublishing/Go-Systems-Programming
