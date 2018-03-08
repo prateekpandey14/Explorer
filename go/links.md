@@ -55,5 +55,7 @@ Cloud-Prober:
 DataStructures in Go:
  https://ieftimov.com/golang-datastructures-linked-lists
 Kubectl with jsonpath:
-https://gist.github.com/so0k/42313dbb3b547a0f51a547bb968696ba  
+https://gist.github.com/so0k/42313dbb3b547a0f51a547bb968696ba
+Network protocol ethernet breakdown
+https://medium.com/@mdlayher/network-protocol-breakdown-ethernet-and-go-de985d726cc1
 ```
