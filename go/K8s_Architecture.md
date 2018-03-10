@@ -15,6 +15,6 @@ https://github.com/kubernetes-incubator/external-storage/tree/master/local-volum
 6. Kubernetes API
 https://medium.com/programming-kubernetes/building-stuff-with-the-kubernetes-api-1-cc50a3642
 
-7. Dessecting  K8s deployment
+7. Dissecting  K8s deployment
 https://blog.heroku.com/dissecting-kubernetes-deployments#a-trigger-based-system
 
