@@ -14,3 +14,4 @@
  https://github.com/bcicen/grmon
  8. Go Systems Programming 
  https://github.com/PacktPublishing/Go-Systems-Programming
+9. https://www.calhoun.io/using-the-service-object-pattern-in-go/
