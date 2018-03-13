@@ -1,5 +1,8 @@
 Some Useful links related to Kubernetes CRD's
 
+How to wright controller
+https://talks.godoc.org/github.com/ericchiang/go-1.8-release-party/kubernetes-controllers.slide#1
+
 1. https://www.brighttalk.com/webcast/14601/267217/build-your-own-kubernetes-operators-pilot-program
 2. https://github.com/aaronlevy/kube-controller-demo
 3. https://docs.google.com/presentation/d/1wEW0qer3M9DtEY4I1xa5JNNZvi6wZ9m7LpTKLErsbuo/edit#slide=id.g1f30d2fdff_0_21
