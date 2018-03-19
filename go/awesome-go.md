@@ -15,3 +15,5 @@
  8. Go Systems Programming 
  https://github.com/PacktPublishing/Go-Systems-Programming
 9. https://www.calhoun.io/using-the-service-object-pattern-in-go/
+10. Task Queue in Go 
+   https://studygolang.com/articles/12621#reply2
