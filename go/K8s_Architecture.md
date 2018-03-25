@@ -20,3 +20,5 @@ https://blog.heroku.com/dissecting-kubernetes-deployments#a-trigger-based-system
 
 8 https://github.com/cofyc/kubelet-exporter/blob/master/pkg/collectors/volume_stats.go
 
+9. https://medium.com/programming-kubernetes/building-stuff-with-the-kubernetes-api-1-cc50a3642
+
