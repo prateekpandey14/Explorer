@@ -16,5 +16,8 @@
  https://github.com/PacktPublishing/Go-Systems-Programming
 9. https://www.calhoun.io/using-the-service-object-pattern-in-go/
 10. Study Goalng https://studygolang.com
-10. Task Queue in Go 
+11. Task Queue in Go 
    https://studygolang.com/articles/12621#reply2
+
+11. SeaweedFS is a simple and highly scalable distributed file system.There are two objectives: to store billions of files! to serve the files fast! Instead of supporting full POSIX file system semantics, SeaweedFS choose to implement only a key~file mapping. Similar to the word "NoSQL", you can call it as "NoFS".
+https://github.com/chrislusf/seaweedfs
