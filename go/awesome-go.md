@@ -21,3 +21,6 @@
 
 11. SeaweedFS is a simple and highly scalable distributed file system.There are two objectives: to store billions of files! to serve the files fast! Instead of supporting full POSIX file system semantics, SeaweedFS choose to implement only a key~file mapping. Similar to the word "NoSQL", you can call it as "NoFS".
 https://github.com/chrislusf/seaweedfs
+
+12. Synchronization Queues in GO
+https://medium.com/golangspec/synchronization-queues-in-golang-554f8e3a31a4
