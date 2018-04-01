@@ -24,3 +24,5 @@ https://github.com/chrislusf/seaweedfs
 
 12. Synchronization Queues in GO
 https://medium.com/golangspec/synchronization-queues-in-golang-554f8e3a31a4
+
+13. GO BlockChain API https://go-review.googlesource.com/c/go/+/103862
