@@ -22,3 +22,4 @@ https://talks.godoc.org/github.com/ericchiang/go-1.8-release-party/kubernetes-co
 16. https://github.com/giantswarm/operatorkit
 17. https://github.com/appscode/kubed
 18. Discussion of operator/controller https://github.com/kubeflow/tf-operator/issues/300
+19. https://medium.com/@cloudark/kubernetes-custom-controllers-b6c7d0668fdf
