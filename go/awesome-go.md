@@ -30,3 +30,4 @@ https://medium.com/golangspec/synchronization-queues-in-golang-554f8e3a31a4
 14. DataStructures and Algo https://github.com/floyernick/Data-Structures-and-Algorithms
 
 15. A book focusing on Go syntaxes and semantics https://github.com/go101/go101
+16. https://medium.com/@arriqaaq/does-logging-cause-cpu-load-a-test-of-all-the-golang-logging-libraries-34052240f90d
