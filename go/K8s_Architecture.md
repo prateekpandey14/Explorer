@@ -23,3 +23,5 @@ https://blog.heroku.com/dissecting-kubernetes-deployments#a-trigger-based-system
 9. https://medium.com/programming-kubernetes/building-stuff-with-the-kubernetes-api-1-cc50a3642
 
 10 https://medium.com/programming-kubernetes/building-stuff-with-the-kubernetes-api-part-4-using-go-b1d0e3c1c899
+
+11. https://kubernetes.io/blog/2018/04/04/fixing-subpath-volume-vulnerability/
