@@ -5,3 +5,4 @@
 5. https://github.com/radu-matei/learning-operator
 6. https://github.com/kubernetes/kubernetes/pull/53944
 7. https://docs.google.com/presentation/d/1IiKOIBbw7oaD4uZ-kNE-mA3cliFjx9FuFLd7pj-dj1Y/edit?usp=drivesdk
+8. https://github.com/oracle/mysql-operator
