@@ -26,3 +26,5 @@ https://blog.heroku.com/dissecting-kubernetes-deployments#a-trigger-based-system
 
 11. https://kubernetes.io/blog/2018/04/04/fixing-subpath-volume-vulnerability/
 12.https://medium.com/stakater/ingress-monitor-controller-uptime-alerts-for-kubernetes-services-855a6bf48ac0 
+
+13. https://speakerdeck.com/thockin/edge-vs-level-triggered-logic
