@@ -64,5 +64,5 @@ Resolve Hash Sum Mismatch
  - sudo apt-get update -o Acquire::CompressionTypes::Order::=gz
 
 https://github.com/jwasham/coding-interview-university
-
+https://jvns.ca/blog/2018/04/16/new-perf-zine/
 ```
