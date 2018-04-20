@@ -25,3 +25,5 @@ https://talks.godoc.org/github.com/ericchiang/go-1.8-release-party/kubernetes-co
 19. https://medium.com/@cloudark/kubernetes-custom-controllers-b6c7d0668fdf
 20 Oracle Mysql Operator https://github.com/oracle/mysql-operator
 https://medium.com/oracledevs/introducing-the-oracle-mysql-operator-for-kubernetes-b06bd0608726
+21. 
+https://github.com/coreos/vault-operator
