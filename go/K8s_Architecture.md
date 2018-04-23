@@ -28,3 +28,5 @@ https://blog.heroku.com/dissecting-kubernetes-deployments#a-trigger-based-system
 12.https://medium.com/stakater/ingress-monitor-controller-uptime-alerts-for-kubernetes-services-855a6bf48ac0 
 
 13. https://speakerdeck.com/thockin/edge-vs-level-triggered-logic
+
+14. http://www.oznetnerd.com/kubernetes-from-the-ground-up-server-components/
