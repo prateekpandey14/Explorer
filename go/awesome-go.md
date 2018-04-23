@@ -32,3 +32,4 @@ https://medium.com/golangspec/synchronization-queues-in-golang-554f8e3a31a4
 15. A book focusing on Go syntaxes and semantics https://github.com/go101/go101
 16. https://medium.com/@arriqaaq/does-logging-cause-cpu-load-a-test-of-all-the-golang-logging-libraries-34052240f90d
 17. https://github.com/r2d4/go-starter
+18. https://medium.com/@yunabe/interactive-go-programming-with-jupyter-93fbf089aff1
