@@ -7,3 +7,4 @@
 7. https://docs.google.com/presentation/d/1IiKOIBbw7oaD4uZ-kNE-mA3cliFjx9FuFLd7pj-dj1Y/edit?usp=drivesdk
 8. https://github.com/oracle/mysql-operator
 9. https://blog.openshift.com/kubernetes-custom-resources-grow-up-in-v1-10/
+10. https://medium.com/@trstringer/create-kubernetes-controllers-for-core-and-custom-resources-62fc35ad64a3
