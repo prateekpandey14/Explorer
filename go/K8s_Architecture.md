@@ -30,3 +30,5 @@ https://blog.heroku.com/dissecting-kubernetes-deployments#a-trigger-based-system
 13. https://speakerdeck.com/thockin/edge-vs-level-triggered-logic
 
 14. http://www.oznetnerd.com/kubernetes-from-the-ground-up-server-components/
+
+15. On Prem Kubernetes the Hard way https://blog.csnet.me/2018/04/on-prem-k8s-thw/
