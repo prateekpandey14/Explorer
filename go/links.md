@@ -70,4 +70,4 @@ https://lab.github.com/courses/github-pages
 Debugging Segfault https://jvns.ca/blog/2018/04/28/debugging-a-segfault-on-linux/
 
 https://github.com/Microsoft/computerscience
-```
+https://github.com/kilimchoi/engineering-blogs
