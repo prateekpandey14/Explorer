@@ -9,3 +9,4 @@
 9. https://blog.openshift.com/kubernetes-custom-resources-grow-up-in-v1-10/
 10. https://medium.com/@trstringer/create-kubernetes-controllers-for-core-and-custom-resources-62fc35ad64a3
 11. https://engineering.bitnami.com/articles/kubewatch-an-example-of-kubernetes-custom-controller.html
+12. https://github.com/operator-framework/operator-sdk
