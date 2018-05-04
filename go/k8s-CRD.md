@@ -27,3 +27,4 @@ https://talks.godoc.org/github.com/ericchiang/go-1.8-release-party/kubernetes-co
 https://medium.com/oracledevs/introducing-the-oracle-mysql-operator-for-kubernetes-b06bd0608726
 21. https://github.com/coreos/vault-operator
 22. https://github.com/bitnami-labs/helm-crd
+23. github.com/dotmesh-io/
