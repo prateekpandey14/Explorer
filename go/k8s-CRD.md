@@ -28,3 +28,4 @@ https://medium.com/oracledevs/introducing-the-oracle-mysql-operator-for-kubernet
 21. https://github.com/coreos/vault-operator
 22. https://github.com/bitnami-labs/helm-crd
 23. github.com/dotmesh-io/
+24. https://github.com/radu-matei/events-operator/blob/master/eventprovider_controller.go
