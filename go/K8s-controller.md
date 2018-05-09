@@ -11,3 +11,4 @@
 11. https://engineering.bitnami.com/articles/kubewatch-an-example-of-kubernetes-custom-controller.html
 12. https://github.com/operator-framework/operator-sdk
 13. KubeCon EU 2018 talk https://www.youtube.com/watch?v=XsFH7OEIIvI
+14. https://github.com/kubernetes/community/blob/master/contributors/devel/controllers.md#guidelines
