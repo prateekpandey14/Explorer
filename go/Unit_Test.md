@@ -16,3 +16,4 @@ https://github.com/quii/learn-go-with-tests
 
 14. https://github.com/kubernetes-sigs/testing_frameworks/blob/master/integration/apiserver.go
 15. https://engineering.aircto.com/writing-testable-code-in-golang/
+16. https://medium.com/@PurdonKyle/building-a-unit-testable-api-in-golang-b42ff1fcbae7
