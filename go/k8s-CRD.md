@@ -31,3 +31,4 @@ https://medium.com/oracledevs/introducing-the-oracle-mysql-operator-for-kubernet
 24. https://github.com/radu-matei/events-operator/blob/master/eventprovider_controller.go
 25. https://medium.com/solo-io/introducing-the-envoy-operator-for-kubernetes-d59dc75e6d8c
 26. https://developer.atlassian.com/blog/2018/05/introducing-escalator/
+27. https://github.com/ianlewis/memcached-operator
