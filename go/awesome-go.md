@@ -35,3 +35,4 @@ https://medium.com/golangspec/synchronization-queues-in-golang-554f8e3a31a4
 18. https://medium.com/@yunabe/interactive-go-programming-with-jupyter-93fbf089aff1
 19. https://teivah.io/blog/good-code-vs-bad-code-in-golang/
 20 https://peter.bourgon.org/go-for-industrial-programming/
+21. https://medium.freecodecamp.org/how-to-write-bulletproof-code-in-go-a-workflow-for-servers-that-cant-fail-10a14a765f22
