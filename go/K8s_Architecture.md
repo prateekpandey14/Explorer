@@ -32,3 +32,4 @@ https://blog.heroku.com/dissecting-kubernetes-deployments#a-trigger-based-system
 14. http://www.oznetnerd.com/kubernetes-from-the-ground-up-server-components/
 
 15. On Prem Kubernetes the Hard way https://blog.csnet.me/2018/04/on-prem-k8s-thw/
+16. CRD Versioning: https://docs.google.com/document/d/1Ucf7JwyHpy7QlgHIN2Rst_q6yT0eeN9euzUV6kte6aY/edit
