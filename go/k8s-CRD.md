@@ -32,3 +32,4 @@ https://medium.com/oracledevs/introducing-the-oracle-mysql-operator-for-kubernet
 25. https://medium.com/solo-io/introducing-the-envoy-operator-for-kubernetes-d59dc75e6d8c
 26. https://developer.atlassian.com/blog/2018/05/introducing-escalator/
 27. https://github.com/ianlewis/memcached-operator
+28. https://github.com/lessor/lessor
