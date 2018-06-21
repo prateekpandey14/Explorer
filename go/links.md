@@ -72,3 +72,6 @@ Debugging Segfault https://jvns.ca/blog/2018/04/28/debugging-a-segfault-on-linux
 https://github.com/Microsoft/computerscience
 https://github.com/kilimchoi/engineering-blogs
 https://github.com/rby90/Project-Based-Tutorials-in-C
+
+https://dev.to/ben/four-helpful-guides-for-grasping-the-ever-elusive-concept-of-git-rebase-36d6
+
