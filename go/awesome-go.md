@@ -38,3 +38,4 @@ https://medium.com/golangspec/synchronization-queues-in-golang-554f8e3a31a4
 21. https://medium.freecodecamp.org/how-to-write-bulletproof-code-in-go-a-workflow-for-servers-that-cant-fail-10a14a765f22
 22. https://m.ednsquare.com/publisher/view/Streaming-IO-in-Go-------T5aR56pC68
 23. https://medium.com/@val_deleplace/go-code-refactoring-the-23x-performance-hunt-156746b522f7
+24. https://quii.gitbook.io/learn-go-with-tests/build-an-application/io-and-sorting
