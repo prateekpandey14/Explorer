@@ -18,3 +18,4 @@ https://github.com/quii/learn-go-with-tests
 15. https://engineering.aircto.com/writing-testable-code-in-golang/
 16. https://medium.com/@PurdonKyle/building-a-unit-testable-api-in-golang-b42ff1fcbae7
 17. https://www.thepolyglotdeveloper.com/2017/02/unit-testing-golang-application-includes-http/
+18. https://medium.com/@romanyx90/testing-database-interactions-using-go-d9512b6bb449
