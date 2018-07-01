@@ -6,3 +6,4 @@
 5. https://medium.com/@ScullWM/golang-http-server-for-pro-69034c276355
 6. https://medium.com/@matryer/how-i-write-go-http-services-after-seven-years-37c208122831
 7. https://www.calhoun.io/apis-are-just-web-applications/
+8. https://itnext.io/structuring-a-production-grade-rest-api-in-golang-c0229b3feedc
