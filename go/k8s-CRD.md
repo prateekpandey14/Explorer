@@ -33,3 +33,4 @@ https://medium.com/oracledevs/introducing-the-oracle-mysql-operator-for-kubernet
 26. https://developer.atlassian.com/blog/2018/05/introducing-escalator/
 27. https://github.com/ianlewis/memcached-operator
 28. https://github.com/lessor/lessor
+29. https://www.mongodb.com/blog/post/introducing-mongodb-enterprise-operator-for-kubernetes-openshift
