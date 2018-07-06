@@ -53,26 +53,32 @@ How to use Bazel:
 Cloud-Prober:
   - https://github.com/google/cloudprober
 DataStructures in Go:
- https://ieftimov.com/golang-datastructures-linked-lists
+   https://ieftimov.com/golang-datastructures-linked-lists
 Kubectl with jsonpath:
-https://gist.github.com/so0k/42313dbb3b547a0f51a547bb968696ba
+   https://gist.github.com/so0k/42313dbb3b547a0f51a547bb968696ba
 Network protocol ethernet breakdown
-https://medium.com/@mdlayher/network-protocol-breakdown-ethernet-and-go-de985d726cc1
+   https://medium.com/@mdlayher/network-protocol-breakdown-ethernet-and-go-de985d726cc1
 
 Resolve Hash Sum Mismatch
- - sudo rm -rf /var/lib/apt/lists/partial
- - sudo apt-get update -o Acquire::CompressionTypes::Order::=gz
+  - sudo rm -rf /var/lib/apt/lists/partial
+  - sudo apt-get update -o Acquire::CompressionTypes::Order::=gz
 
 https://github.com/jwasham/coding-interview-university
+
 https://jvns.ca/blog/2018/04/16/new-perf-zine/
 
 https://lab.github.com/courses/github-pages
-Debugging Segfault https://jvns.ca/blog/2018/04/28/debugging-a-segfault-on-linux/
+
+Debugging Segfault 
+  https://jvns.ca/blog/2018/04/28/debugging-a-segfault-on-linux/
 
 https://github.com/Microsoft/computerscience
+
 https://github.com/kilimchoi/engineering-blogs
+
 https://github.com/rby90/Project-Based-Tutorials-in-C
 
 https://dev.to/ben/four-helpful-guides-for-grasping-the-ever-elusive-concept-of-git-rebase-36d6
 
 https://google.github.io/styleguide/shell.xml
+```
