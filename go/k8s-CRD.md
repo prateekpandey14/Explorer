@@ -34,6 +34,6 @@ https://medium.com/oracledevs/introducing-the-oracle-mysql-operator-for-kubernet
 27. https://github.com/ianlewis/memcached-operator
 28. https://github.com/lessor/lessor
 29. https://www.mongodb.com/blog/post/introducing-mongodb-enterprise-operator-for-kubernetes-openshift
-30.
 
-https://kubernetes.io/blog/2018/06/28/airflow-on-kubernetes-part-1-a-different-kind-of-operator/
+
+30. https://kubernetes.io/blog/2018/06/28/airflow-on-kubernetes-part-1-a-different-kind-of-operator/
