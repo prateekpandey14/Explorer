@@ -81,4 +81,6 @@ https://github.com/rby90/Project-Based-Tutorials-in-C
 https://dev.to/ben/four-helpful-guides-for-grasping-the-ever-elusive-concept-of-git-rebase-36d6
 
 https://google.github.io/styleguide/shell.xml
+
+https://thenewstack.io/debugging-microservices-lessons-from-google-facebook-lyft/
 ```
