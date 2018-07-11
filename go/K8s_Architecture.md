@@ -40,3 +40,5 @@ https://blog.heroku.com/dissecting-kubernetes-deployments#a-trigger-based-system
 18. https://blog.openshift.com/kubernetes-statefulset-in-action/
 
 19. https://kubernetes.io/blog/2016/10/dynamic-provisioning-and-storage-in-kubernetes/
+
+20. https://docs.google.com/document/d/1Ru9kOZBEy41x879Z0ilLHGjchzUC660h9baHqm_NJno/edit?ts=5b2bb1f4
