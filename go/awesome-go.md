@@ -42,3 +42,5 @@ https://medium.com/golangspec/synchronization-queues-in-golang-554f8e3a31a4
 25. https://itnext.io/building-a-web-http-server-with-go-6554029b4079
 
 26. https://medium.com/@matryer/very-basic-concurrency-for-beginners-in-go-663e63c6ba07
+
+27. http://rabbitstack.github.io/operating%20systems/containers/linux-container-internals-part-ii/
