@@ -44,3 +44,4 @@ https://medium.com/golangspec/synchronization-queues-in-golang-554f8e3a31a4
 26. https://medium.com/@matryer/very-basic-concurrency-for-beginners-in-go-663e63c6ba07
 
 27. http://rabbitstack.github.io/operating%20systems/containers/linux-container-internals-part-ii/
+28. Building Go from source: https://carolynvanslyck.com/blog/2018/07/building-go-from-source/
