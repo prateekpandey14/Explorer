@@ -69,7 +69,7 @@ https://jvns.ca/blog/2018/04/16/new-perf-zine/
 
 https://lab.github.com/courses/github-pages
 
-Debugging Segfault 
+Debugging Segfault: 
   https://jvns.ca/blog/2018/04/28/debugging-a-segfault-on-linux/
 
 https://github.com/Microsoft/computerscience
