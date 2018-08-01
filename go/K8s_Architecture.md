@@ -42,3 +42,7 @@ https://blog.heroku.com/dissecting-kubernetes-deployments#a-trigger-based-system
 19. https://kubernetes.io/blog/2016/10/dynamic-provisioning-and-storage-in-kubernetes/
 
 20. https://docs.google.com/document/d/1Ru9kOZBEy41x879Z0ilLHGjchzUC660h9baHqm_NJno/edit?ts=5b2bb1f4
+
+21. Enable Feature Gate in K8s :
+    env ALLOW_PRIVILEGED=true hack/local-up-cluster.sh -o _output/bin/
+
