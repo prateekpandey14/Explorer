@@ -85,4 +85,7 @@ https://google.github.io/styleguide/shell.xml
 https://thenewstack.io/debugging-microservices-lessons-from-google-facebook-lyft/
 
 Debug GO runtime : https://marcan.st/2017/12/debugging-an-evil-go-runtime-bug/
+
+Building Go applicationhttps://youtu.be/_2ZwhvIkgek
+
 ```
