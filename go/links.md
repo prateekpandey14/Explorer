@@ -88,4 +88,5 @@ Debug GO runtime : https://marcan.st/2017/12/debugging-an-evil-go-runtime-bug/
 
 Building Go application: https://youtu.be/_2ZwhvIkgek
 
+https://github.com/k88hudson/git-flight-rules#i-want-to-undo-rebasemerge
 ```
