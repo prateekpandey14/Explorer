@@ -20,3 +20,4 @@ https://github.com/quii/learn-go-with-tests
 17. https://www.thepolyglotdeveloper.com/2017/02/unit-testing-golang-application-includes-http/
 18. https://medium.com/@romanyx90/testing-database-interactions-using-go-d9512b6bb449
 19. https://medium.com/@povilasve/go-advanced-tips-tricks-a872503ac859
+20  Unit test for Go cli application: http://lucapette.me/writing-integration-tests-for-a-go-cli-application
