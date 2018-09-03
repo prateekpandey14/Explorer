@@ -37,3 +37,4 @@ https://medium.com/oracledevs/introducing-the-oracle-mysql-operator-for-kubernet
 
 
 30. https://kubernetes.io/blog/2018/06/28/airflow-on-kubernetes-part-1-a-different-kind-of-operator/
+31. https://blog.openshift.com/make-a-kubernetes-operator-in-15-minutes-with-helm/
