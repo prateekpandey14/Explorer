@@ -21,3 +21,4 @@ https://github.com/quii/learn-go-with-tests
 18. https://medium.com/@romanyx90/testing-database-interactions-using-go-d9512b6bb449
 19. https://medium.com/@povilasve/go-advanced-tips-tricks-a872503ac859
 20  Unit test for Go cli application: http://lucapette.me/writing-integration-tests-for-a-go-cli-application
+21. https://github.com/giantswarm/e2e-harness/blob/master/pkg/project/project.go
