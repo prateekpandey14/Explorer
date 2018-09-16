@@ -49,3 +49,4 @@ https://blog.heroku.com/dissecting-kubernetes-deployments#a-trigger-based-system
 22. https://kubernetes.io/blog/2018/08/02/dynamically-expand-volume-with-csi-and-kubernetes/
 
 23 Cloning in K8s https://docs.google.com/document/d/1Ru9kOZBEy41x879Z0ilLHGjchzUC660h9baHqm_NJno/edit?ts=5b2bb1f4
+24. https://docs.google.com/document/d/1-azPLXaLgTCKeKDNg0HVMq2ovMlD-e7n1ZHzZVzOlJk/edit?usp=drivesdk
