@@ -91,4 +91,6 @@ Building Go application: https://youtu.be/_2ZwhvIkgek
 https://github.com/k88hudson/git-flight-rules#i-want-to-undo-rebasemerge
 
 https://logicmag.io/
+
+https://blog.golang.org/go-cloud
 ```
