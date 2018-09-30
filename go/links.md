@@ -93,4 +93,6 @@ https://github.com/k88hudson/git-flight-rules#i-want-to-undo-rebasemerge
 https://logicmag.io/
 
 https://blog.golang.org/go-cloud
+https://medium.com/netflix-techblog/netflix-edge-load-balancing-695308b5548c
+
 ```
