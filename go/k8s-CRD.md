@@ -41,3 +41,4 @@ https://medium.com/oracledevs/introducing-the-oracle-mysql-operator-for-kubernet
 32. https://github.com/mercari/certificate-expiry-monitor-controller
 33. https://github.com/openshift/local-storage-operator
 34. https://github.com/mercari/certificate-expiry-monitor-controller
+35. https://admiralty.io/blog/introducing-multicluster-controller/?no-cache=1
