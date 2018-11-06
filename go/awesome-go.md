@@ -46,3 +46,8 @@ https://medium.com/golangspec/synchronization-queues-in-golang-554f8e3a31a4
 27. http://rabbitstack.github.io/operating%20systems/containers/linux-container-internals-part-ii/
 28. Building Go from source: https://carolynvanslyck.com/blog/2018/07/building-go-from-source/
 29. https://middlemost.com/object-lifecycle/
+30. "Writing Network Drivers in Go"
+
+Paper describing a user-space driver for ixgbe devices in 1000 lines of Go, handling 24.9803 million packets per second, approximately 10% slower than the C implementation
+
+https://t.co/4WpK8HlIHP
