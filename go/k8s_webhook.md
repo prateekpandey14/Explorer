@@ -3,3 +3,4 @@
 3. https://github.com/caesarxuchao/example-webhook-admission-controller
 4. https://github.com/lachie83/internallb-webhook-admission-controller
 5. http://blog.kubernetes.io/2018/01/extensible-admission-is-beta.html
+6. https://github.com/kubernetes/kubernetes/pull/67006
