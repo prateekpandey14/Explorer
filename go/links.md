@@ -97,3 +97,6 @@ https://medium.com/netflix-techblog/netflix-edge-load-balancing-695308b5548c
 
 ```https://ops.tips/amp/blog/how-linux-tcp-introspection/?__twitter_impression=true
 https://t.co/FjOfWoJwVH
+https://youtu.be/II4PFe9BbmE
+
+```
