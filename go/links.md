@@ -93,10 +93,12 @@ https://github.com/k88hudson/git-flight-rules#i-want-to-undo-rebasemerge
 https://logicmag.io/
 
 https://blog.golang.org/go-cloud
+
 https://medium.com/netflix-techblog/netflix-edge-load-balancing-695308b5548c
 
-```https://ops.tips/amp/blog/how-linux-tcp-introspection/?__twitter_impression=true
-https://t.co/FjOfWoJwVH
+https://ops.tips/amp/blog/how-linux-tcp-introspection/?__twitter_impression=true
+
+Mutual and immutable infrastructure:
 https://youtu.be/II4PFe9BbmE
 
 ```
