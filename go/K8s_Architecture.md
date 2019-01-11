@@ -53,3 +53,5 @@ https://blog.heroku.com/dissecting-kubernetes-deployments#a-trigger-based-system
 24. https://docs.google.com/document/d/1-azPLXaLgTCKeKDNg0HVMq2ovMlD-e7n1ZHzZVzOlJk/edit?usp=drivesdk
 
 25. Local Kubernetes development with no stress: https://github.com/windmilleng/tilt https://tilt.build/
+
+26. The Life of a Kubernetes Watch Event : https://www.youtube.com/watch?v=PLSDvFjR9HY&feature=youtu.be
