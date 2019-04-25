@@ -48,6 +48,8 @@ https://medium.com/golangspec/synchronization-queues-in-golang-554f8e3a31a4
 29. https://middlemost.com/object-lifecycle/
 30. "Writing Network Drivers in Go"
 
-Paper describing a user-space driver for ixgbe devices in 1000 lines of Go, handling 24.9803 million packets per second, approximately 10% slower than the C implementation
-
+31. Paper describing a user-space driver for ixgbe devices in 1000 lines of Go, handling 24.9803 million packets per second, approximately 10% slower than the C implementation
 https://t.co/4WpK8HlIHP
+
+32. Redix Sort : https://medium.com/@houzier.saurav/radix-sort-golang-14cdb995f702
+33. Least Recently Used (LRU) cache in Golang : https://ieftimov.com/post/spotify-recently-played-least-recently-used-cache-golang/?utm_campaign=Master%20the%20World%20of%20Golang&utm_medium=email&utm_source=Revue%20newsletter
